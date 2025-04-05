@@ -1,5 +1,3 @@
-### **Simple Documentation for Electronic Shelf Label (ESL) System**
-
 #### **What is an ESL?**
 
 An Electronic Shelf Label (ESL) system is a digital price tag that can be placed on store shelves to show the prices of products. Instead of using paper labels, the prices are displayed on small digital screens and can be updated remotely through the internet.
@@ -33,3 +31,4 @@ An Electronic Shelf Label (ESL) system is a digital price tag that can be placed
 
 This ESL system makes managing prices in a store much easier and more efficient.
 
+## *Note* : This Project Is Implemented as (Mobile App, Web App, Embedded System)
